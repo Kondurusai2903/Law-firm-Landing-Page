@@ -1,0 +1,12 @@
+.back {
+  width: 467.71px;
+  height: 467.71px;
+  gap: 0px;
+  border-radius: 20px;
+  opacity: 0px;
+  background: var(--primary-color);
+  margin-top: 2rem;
+}
+img {
+  margin-bottom: 2rem;
+}

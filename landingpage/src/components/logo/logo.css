@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+}
+.logo {
+  width: 30.41px;
+  height: 30.3px;
+  top: 61px;
+  left: 153px;
+  gap: 0px;
+  opacity: 0px;
+}
+.logo-text {
+  width: 101.3px;
+  height: 15.95px;
+  top: 68.58px;
+  left: 194.7px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 6px;
+  color: #fff;
+}
